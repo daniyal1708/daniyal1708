@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=Hi+I'm+Daniyal+Ahmed;Full-Stack+Developer+in+Progress;UI%2FUX+Designer+%7C+Game+Dev+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full-Stack+Developer+in+Progress;AI+%26+ML+Explorer;UI%2FUX+Designer+%7C+Game+Dev+Learner;Prompt+Engineering+%7C+Open+Source+Contributor" />
+</p>
 
 ---
 
 # 👨‍💻 Daniyal Ahmed
 
-💻 Software Engineering student passionate about building scalable web applications, creative UI/UX designs, and interactive digital experiences.
+💻 Software Engineering student passionate about building scalable web applications, AI-powered solutions, and modern digital experiences.
 
 📍 Rawalpindi, Pakistan 🇵🇰  
 🎓 Bahria University Islamabad  
@@ -13,17 +15,19 @@
 
 ## 🌐 Portfolio Overview
 
-I am focused on turning ideas into real-world digital products through clean code, design thinking, and continuous learning.
+I focus on building real-world digital products using clean code, AI tools, and modern development practices.
 
 ---
 
 ## 🚀 What I Do
 
 - ⚡ Full-Stack Web Development (Learning & Building)
+- 🤖 Artificial Intelligence & Machine Learning Basics
+- 🧠 Prompt Engineering (AI Interaction & Optimization)
 - 🎨 UI/UX Design Exploration
 - 🎮 Game Development Basics
+- 🌍 Website Development Projects
 - 🌱 Open Source Contribution
-- 🧠 Problem Solving & Logical Thinking
 
 ---
 
@@ -38,12 +42,15 @@ I am focused on turning ideas into real-world digital products through clean cod
 ### ⚙️ Backend
 - Node.js (Learning)  
 - Express.js (Basics)  
-- PHP  
-- Apache  
 
 ### 🗄️ Databases
 - MongoDB (NoSQL)  
 - MySQL (Relational Database)
+
+### 🤖 AI & Emerging Tech
+- Artificial Intelligence (AI Basics)  
+- Machine Learning (Learning)  
+- Prompt Engineering  
 
 ### 🔧 Tools
 - Git & GitHub  
@@ -52,20 +59,21 @@ I am focused on turning ideas into real-world digital products through clean cod
 
 ---
 
-## 📌 Featured Mindset
+## 📌 Philosophy
 
-> “Build. Learn. Improve. Repeat.”
+> “Build smart. Learn fast. Create impact.”
 
-I believe in learning by doing and improving through real-world projects.
+I believe in learning by doing and growing through real-world projects and experimentation.
 
 ---
 
 ## 📊 Current Focus
 
-- Building full-stack projects  
+- Building full-stack web applications  
+- Learning AI & machine learning fundamentals  
+- Practicing prompt engineering techniques  
 - Improving UI/UX design skills  
-- Practicing JavaScript & React  
-- Exploring game development basics  
+- Exploring game development  
 - Contributing to open source  
 
 ---
@@ -76,4 +84,4 @@ I believe in learning by doing and improving through real-world projects.
 
 ---
 
-⭐ *Always building, always learning.*
+⭐ *Always building. Always learning. Always improving.*
