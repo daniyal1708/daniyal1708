@@ -21,7 +21,7 @@ I focus on building real-world digital products using clean code, AI tools, and 
 
 ## 🚀 What I Do
 
-- ⚡ Full-Stack Web Development (Learning & Building)
+- ⚡ Full-Stack Web Development and App(Learning & Building)
 - 🤖 Artificial Intelligence & Machine Learning Basics
 - 🧠 Prompt Engineering (AI Interaction & Optimization)
 - 🎨 UI/UX Design Exploration
@@ -38,6 +38,7 @@ I focus on building real-world digital products using clean code, AI tools, and 
 - CSS  
 - JavaScript  
 - React (Learning)
+- Reactnative (progress)
 
 ### ⚙️ Backend
 - Node.js (Learning)  
@@ -69,7 +70,7 @@ I believe in learning by doing and growing through real-world projects and exper
 
 ## 📊 Current Focus
 
-- Building full-stack web applications  
+- Building full-stack web applications and Mobile Apps  
 - Learning AI & machine learning fundamentals  
 - Practicing prompt engineering techniques  
 - Improving UI/UX design skills  
