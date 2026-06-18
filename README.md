@@ -1,43 +1,79 @@
-# 👋 Hi, I'm Daniyal Ahmed
-
-🎓 Software Engineering student at Bahria University Islamabad  
-💻 Full-Stack Developer (learning & building projects)  
-🎨 Interested in UI/UX Design  
-🎮 Exploring Game Development  
-🌱 Learning through hands-on practical projects  
-🤝 Open to collaboration and open-source contribution  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=Hi+I'm+Daniyal+Ahmed;Full-Stack+Developer+in+Progress;UI%2FUX+Designer+%7C+Game+Dev+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Skills
-- HTML, CSS, JavaScript(learning)
-- C++
-- React (learning)
-- Node.js (learning)
-- Git & GitHub
-- UI/UX (Learning)
+# 👨‍💻 Daniyal Ahmed
+
+💻 Software Engineering student passionate about building scalable web applications, creative UI/UX designs, and interactive digital experiences.
+
+📍 Rawalpindi, Pakistan 🇵🇰  
+🎓 Bahria University Islamabad  
 
 ---
 
-## 📌 About Me
-I am a passionate software engineering student focused on building real-world applications and improving my development skills through consistent practice and projects.
+## 🌐 Portfolio Overview
+
+I am focused on turning ideas into real-world digital products through clean code, design thinking, and continuous learning.
 
 ---
 
-## 📫 Connect with me
-- GitHub: https://github.com/daniyal1708
+## 🚀 What I Do
 
-<!--
-**daniyal1708/daniyal1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Full-Stack Web Development (Learning & Building)
+- 🎨 UI/UX Design Exploration
+- 🎮 Game Development Basics
+- 🌱 Open Source Contribution
+- 🧠 Problem Solving & Logical Thinking
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React (Learning)
+
+### ⚙️ Backend
+- Node.js (Learning)  
+- Express.js (Basics)  
+- PHP  
+- Apache  
+
+### 🗄️ Databases
+- MongoDB (NoSQL)  
+- MySQL (Relational Database)
+
+### 🔧 Tools
+- Git & GitHub  
+- VS Code  
+- Figma (UI/UX Design)
+
+---
+
+## 📌 Featured Mindset
+
+> “Build. Learn. Improve. Repeat.”
+
+I believe in learning by doing and improving through real-world projects.
+
+---
+
+## 📊 Current Focus
+
+- Building full-stack projects  
+- Improving UI/UX design skills  
+- Practicing JavaScript & React  
+- Exploring game development basics  
+- Contributing to open source  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/daniyal1708  
+
+---
+
+⭐ *Always building, always learning.*
